@@ -10,7 +10,7 @@
 ``` javascript
   <textarea name="editor" id="editor"></textarea>
 ```
-*引入js文件
+* 引入js文件
 ``` javascript
   <script src="js/mditor.min.js"></script>
 	<script>
@@ -25,4 +25,4 @@
 		}
 	</script>
 	```
-	详情请看demo.html
+详情请看demo.html
